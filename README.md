@@ -1,8 +1,8 @@
-#Ionic Application
+# Ionic Application
 
 This is a sample Application to render list of Employees using Ionic Framework
 
-##Installation
+## Installation
 
 ```bash
 npm install -g ionic
