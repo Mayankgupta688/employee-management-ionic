@@ -1,22 +1,21 @@
 import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/react';
 import React from 'react';
 
-const Home: React.FC = () => {
+const Home: React.FunctionComponent = () => {
   return (
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Ionic Blank</IonTitle>
+          <IonTitle>This is the Header for Functional Component</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent className="ion-padding">
-        The world is your oyster.
+        Hi All This is Sample Application
         <p>
           If you get lost, the{' '}
           <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/">
-            docs
-          </a>{' '}
-          will be your guide.
+            Click Here for Docs
+          </a>
         </p>
       </IonContent>
     </IonPage>
