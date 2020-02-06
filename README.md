@@ -14,4 +14,5 @@ ionic server
 ```
 
 Run the Application in Android Studio, Select Device attached to the System and Run
+
 The Mobile should be connected to same Wi-Fi...
